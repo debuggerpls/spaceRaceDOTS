@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\code\spaceRaceDOTS" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ComponentData" t="Include">
+            <e p="GameOverTag.cs" t="Include" />
+            <e p="ImmobileTag.cs" t="Include" />
+            <e p="ObstacleMovementData.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="PlayerInputData.cs" t="Include" />
+            <e p="PlayerMovementData.cs" t="Include" />
+            <e p="SpawnTimeoutData.cs" t="Include" />
+            <e p="TimeCounterData.cs" t="Include" />
+            <e p="WaitForRestartTag.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Systems" t="Include">
+            <e p="CollisionSystem.cs" t="Include" />
+            <e p="GameOverSystem.cs" t="Include" />
+            <e p="ObstacleMovementSystem.cs" t="Include" />
+            <e p="ObstacleRemovalSystem.cs" t="Include" />
+            <e p="ObstacleSpawnSystem.cs" t="Include" />
+            <e p="PlayerInputSystem.cs" t="Include" />
+            <e p="PlayerMovementSystem.cs" t="Include" />
+            <e p="PlayerReachedGoalSystem.cs" t="Include" />
+            <e p="TimeCounterSystem.cs" t="Include" />
+            <e p="WaitForRestartSystem.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="spaceRaceDOTS.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Deividas\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Deividas\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_spaceRaceDOTS.-1773901552.00" t="ExcludeRecursive" />
+  </component>
+</project>
